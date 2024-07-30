@@ -1,0 +1,19 @@
+body {
+  background: #fdfafa;
+}
+
+#app {
+  margin: 50px 20px;
+}
+
+.text-danger {
+  color: red;
+}
+
+.clearfix {
+  clear: both;
+}
+
+[class*="left floated"] {
+  float: left;
+}
